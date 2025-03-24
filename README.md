@@ -23,8 +23,7 @@ Water hyacinth is considered one of the world's worst invasive aquatic weeds. It
 # EO methods
 Google Earth Engine workflows to classify water haycinth were developed for both Sentinel-2 and Sentinel-2 data. The figure below shows the sampling points used in this study for Random Forest classification using Sentinel-2 data. Due to Sentinel-2 L2A data unavailability in the first 11 months of 2018, Sentinel-2 L1C images were manually processed and thresholded to cover this period. A Sentinel-1 script was also developed to create and threshold biweekly radar composites, as well as for creating yearly annual heatmaps of water hyacinth invasion. The classification scripts were used to obtain a timeseries of the weed's extent over 2018-2021. 
 
-![Uploading Screenshot 2025-03-24 at 11.00.44.png…]()
-
+<img width="964" alt="Screenshot 2025-03-24 at 11 00 44" src="https://github.com/user-attachments/assets/16264efa-d62b-4226-b58b-ea53ed113d0c" />
 
 # To see the study's findings
 - visit the study's website available at: https://www.geos.ed.ac.uk/~mscgis/21-22/s1737656/
